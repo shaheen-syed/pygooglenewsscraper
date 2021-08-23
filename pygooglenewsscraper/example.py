@@ -1,6 +1,4 @@
-from googlenewsscraper import GoogleNews
-from googlenewsscraper import NewsArticle
-
+from pygooglenewsscraper import GoogleNews, NewsArticle
 
 # define keyword
 keyword = 'artificial intelligence'

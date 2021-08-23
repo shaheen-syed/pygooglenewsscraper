@@ -1,0 +1,1 @@
+from googlenewsscraper import Request, GoogleNews, NewsArticle

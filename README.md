@@ -3,12 +3,19 @@ Scrape the news content from the Google news website (https://news.google.com).
 
 It uses a keyword to retrieve the news title, URL, publisher, and date. The complete news content can then be retrieved from the URL.
 
+## Installation
+
+```bash
+pip3 install pygooglenewsscraper
+```
+
 
 ## Examples
 
 Retrieve Google News items through a search keyword
 
 ```python
+from pygooglenewsscraper import GoogleNews, NewsArticle
 
 # define keyword
 keyword = 'artificial intelligence'
