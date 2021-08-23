@@ -1,5 +1,5 @@
 # pygooglenewsscraper
-Scrape the news content from the Google news website (https://google.news.com).
+Scrape the news content from the Google news website (https://news.google.com).
 
 It uses a keyword to retrieve the news title, URL, publisher, and date. The complete news content can then be retrieved from the URL.
 
