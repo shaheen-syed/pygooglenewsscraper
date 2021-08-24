@@ -1,1 +1,1 @@
-from pygooglenewsscraper import Request, GoogleNews, NewsArticle
+from pygooglenewsscraper.pygooglenewsscraper import Request, GoogleNews, NewsArticle
